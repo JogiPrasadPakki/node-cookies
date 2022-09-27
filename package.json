@@ -1,8 +1,8 @@
 {
-  "name": "cookies",
+  "name": "node-cookies",
   "description": "Cookies, optionally signed using Keygrip.",
   "version": "0.8.0",
-  "author": "Jed Schmidt <tr@nslator.jp> (http://jed.is)",
+  "author": "Jed Schmidt <tr@nslator.jp> (http://jed.is), Jogi Prasad Pakki",
   "contributors": [
     "Douglas Christopher Wilson <doug@somethingdoug.com>"
   ],
